@@ -1,0 +1,14 @@
+{
+  "name": "hackathon",
+  "version": "1.0.0",
+  "description": "This project implements a multi-agent system designed to build a Company Knowledge Graph Agent that understands how a company works by connecting people, teams, projects, documents, and decisions in one graph. The agent enables users to ask questions and get work done across all company knowledge with clear source attribution.",
+  "main": "demo-falkorDB.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "dependencies": {
+    "falkordb": "^6.8.0"
+  }
+}
