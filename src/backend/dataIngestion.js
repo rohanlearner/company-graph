@@ -1,5 +1,5 @@
 // Data Ingestion Pipeline Module with FalkorDB Integration
-const FalkorDBStorage = require('./falkorDB');
+const { FalkorDBStorage } = require('./falkorDB');
 
 class DataIngestionPipeline {
   constructor(config = {}) {

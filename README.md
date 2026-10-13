@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with-%20Claude%20Code-4FC08D.svg?style=for-the-badge&logo=anthropic" alt="Made with Claude Code">
+  <img src="https://img.shields.io/badge/Powered%20by-Ruflo-blue?style=for-the-badge" alt="Powered by Ruflo">
+  <img src="https://img.shields.io/badge/Node.js-%3E%3D%2016.x-green?style=for-the-badge&logo=node.js" alt="Node.js >= 16.x">
+  <img src="https://img.shields.io/github/license/rohanlearner/company-graph?style=for-the-badge" alt="License">
+  <img src="https://img.shields.io/github/issues/rohanlearner/company-graph?style=for-the-badge" alt="Issues">
+  <img src="https://img.shields.io/github/stars/rohanlearner/company-graph?style=for-the-badge" alt="Stars">
+</p>
+
 # Company Knowledge Graph Agent - Hackathon Project
 
 ## Overview
@@ -140,6 +149,15 @@ Our implementation provides the foundation for an agent that can:
 3. Find experts through relationship traversal (via graph capabilities)
 4. Show reasoning path (via message passing and task completion tracking)
 5. Handle updates through the data ingestion pipeline
+
+## Getting Started
+See [GETTING_STARTED.md](GETTING_STARTED.md) for detailed installation and usage instructions.
+
+## Contributing
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 *Documentation generated for hackathon project submission*
