@@ -133,15 +133,6 @@ src/
 4. Data flows through the ingestion pipeline for processing and storage
 5. Agents collaborate to research, design, implement, test, and review the knowledge graph system
 
-## Next Steps for Completion
-To complete the hackathon project, the following would need to be implemented:
-1. FalkorDB integration for the knowledge graph storage
-2. Specific data source connectors (Jira, Slack, GitHub, etc.)
-3. Natural language to graph query translation layer
-4. Source tracking and attribution mechanisms
-5. Visualization components for the knowledge graph
-6. Demo scenarios showcasing the agent's capabilities
-
 ## Success Criteria Met
 Our implementation provides the foundation for an agent that can:
 1. Answer questions with clear source attribution (via planned FalkorDB integration)
